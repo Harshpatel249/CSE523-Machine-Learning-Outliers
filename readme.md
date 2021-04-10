@@ -22,5 +22,5 @@ Collaborative filtering: Gaussian Mixture Model with Expectation Maximization
 5. Results: Contains the screenshots of the results for both the implementations.  
 --> Result_CosineSimilarity.png (Result of Cosine Similarity with TF-IDF vectorizer)  
     Here the recommendations for the movie "The Dark Knight" are displayed.  
-    The recommended movies are very similar based on the genre, cast, directors and keywords (i.e content of the movie).
+    The recommended movies are very similar based on the genre, cast, directors and keywords (i.e content of the movie).  
 --> 
