@@ -10,3 +10,5 @@
     Here, we can see the RMSE values for 30 different cases, i.e 1 gaussian to 30 different gaussians fitted to the given data.  
 --> RMSEg.png (Image showing the RMSE vs number of Gaussians)  
     Here, we can see that the RMSE decreases with the increase in number of gaussians but the decrease saturates quickly due to small data.  
+--> GMMloglikelihood.png (Image showing the log likehood with increasing iterations)
+    Here, we can see that the log likelihood saturates between 40-50 iterations and hence 50 iterations are enough.  
